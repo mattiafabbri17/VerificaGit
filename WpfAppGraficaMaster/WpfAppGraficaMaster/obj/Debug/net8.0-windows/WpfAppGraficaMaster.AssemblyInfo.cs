@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfAppGraficaMaster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fd45a9c78e0ab19935decf67f5b1d0bdb410b9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8978f9b4860f5ffbbdcf38f63f21af356264757")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfAppGraficaMaster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfAppGraficaMaster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

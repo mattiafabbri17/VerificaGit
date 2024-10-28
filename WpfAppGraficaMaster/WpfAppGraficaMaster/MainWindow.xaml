@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Button Content="Visualizza informazioni studente&#xD;&#xA;" HorizontalAlignment="Left" Height="49" Margin="119,87,0,0" VerticalAlignment="Top" Width="186"/>
+        <Button Content="visualizza informazioni scuola&#xD;&#xA;" HorizontalAlignment="Left" Height="59" Margin="305,180,0,0" VerticalAlignment="Top" Width="279"/>
 
     </Grid>
 </Window>
